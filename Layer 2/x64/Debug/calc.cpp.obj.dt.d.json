@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rmkolibarov24\\source\\repos\\test\\layer 2\\calc.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\rmkolibarov24\\source\\repos\\test\\layer 2\\calc.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

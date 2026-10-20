@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Layer 1/Layer 1.vcxproj" />
+  <Project Path="Layer 2/Layer 2.vcxproj" />
+</Solution>
